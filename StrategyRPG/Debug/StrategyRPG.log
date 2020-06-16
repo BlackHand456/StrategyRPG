@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Evan\Desktop\StrategyRPGProject\StrategyRPG\StrategyRPG\main.cpp(289,20): warning C4018: '<': signed/unsigned mismatch
+  StrategyRPG.vcxproj -> C:\Users\Evan\Desktop\StrategyRPGProject\StrategyRPG\Debug\StrategyRPG.exe
